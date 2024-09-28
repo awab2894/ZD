@@ -1,0 +1,27 @@
+<!DOCTYPE svg>
+<svg id="logo"  viewBox="0 0 25 25" xmlns="http://www.w3.org/2000/svg">
+   
+   <rect
+    fill="#fff" stroke="none"
+    x="6" y="10.5"
+    width="8" height="8"
+   />
+   <path
+    fill="#111" stroke="none"
+    stroke-width="0"
+    
+    d='M 0 4 l 20 0 0 5 -20 0'
+   />
+   <path
+    fill="#090" stroke="none"
+    stroke-width="0"
+    
+    d='M 20 25 l -5 0 0 -8 -5 0 0 -5 10 0'
+   />
+   <path
+    fill="#900" stroke="none"
+    stroke-width="0"
+    
+    d='M 0 0 l 0 25 25 0 0 -5 -20 0 0 -20 -5 0'
+   /> 
+</svg>
